@@ -14,3 +14,5 @@
 - local setup
 - [what is kubernetes](https://www.youtube.com/watch?v=a-nWPre5QYI)
 - [Minikube and Kubectl](https://www.youtube.com/watch?v=E2pP1MOfo3g)
+- [Kubernetes Services](https://www.youtube.com/watch?v=T4Z7visMM4E)
+- [Kubernets Ingress](https://www.youtube.com/watch?v=80Ew_fsV4rM)
